@@ -79,10 +79,11 @@
 │   │   ├── handlers
 │   │   │   └── studentFormHandlers.js
 │   │   ├── services
-│   │   │   └── studentService.js
+│   │   │   ├── controller.js
+│   │   │   ├── model.js
+│   │   │   └── ui.js
 │   │   ├── .DS_Store
 │   │   ├── add.js
-│   │   ├── calendarView.js
 │   │   ├── index.js
 │   │   └── testing.js
 │   ├── utils
@@ -101,7 +102,6 @@
 │   └── .DS_Store
 ├── .DS_Store
 ├── 404.html
-├── OLD-admin.html
 ├── add.html
 ├── admin.html
 ├── filetree.txt
